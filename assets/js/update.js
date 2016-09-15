@@ -109,7 +109,7 @@ $(function(){
       
    		 }
  	 },
-  		errorClass: "text-danger"
+  	errorClass: "text-danger"
 	});
 
 })
